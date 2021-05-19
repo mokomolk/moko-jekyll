@@ -22,7 +22,7 @@ title: My new Jekyll site
 email: moko75@hotmail.com
 description: My awesome site!
 destination: docs
-baseurl: "moko-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/moko-jekyll" # the subpath of your site, e.g. /blog
 url: "https://mokomolk.github.io/moko-jekyll/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
